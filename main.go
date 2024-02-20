@@ -1,4 +1,4 @@
-package goWeb
+package main
 
 import "fmt"
 
